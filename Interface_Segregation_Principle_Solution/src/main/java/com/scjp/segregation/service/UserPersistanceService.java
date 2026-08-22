@@ -38,7 +38,7 @@ public class UserPersistanceService implements PersistanceService<User> {
 
 	}
 
-	@Override
+	
 	public List<User> findByName(String name) {
 		// TODO Auto-generated method stub
 		synchronized (USERS) {

@@ -34,11 +34,5 @@ public class OrderPeristanceService implements PersistanceService<Order> {
 		}
 
 	}
-//Interface violate  Interface Segregation Principle
-	@Override
-	public List<Order> findByName(String name) {
-		// TODO Auto-generated method stub
-		 throw new UnsupportedOperationException("Find By Name not supported");
-	}
 
 }
