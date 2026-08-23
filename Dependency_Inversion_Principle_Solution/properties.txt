@@ -1,0 +1,4 @@
+{"message":"Java is ocean",
+
+"timestmp":
+{"year":2026,"monthValue":8,"dayOfMonth":23,"hour":10,"minute":32,"second":37,"nano":999967400,"dayOfWeek":"SUNDAY","dayOfYear":235,"month":"AUGUST","chronology":{"id":"ISO","calendarType":"iso8601"}}}
